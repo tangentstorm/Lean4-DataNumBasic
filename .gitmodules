@@ -1,0 +1,3 @@
+[submodule "mathport"]
+	path = mathport
+	url = git@github.com:tangentforks/mathport.git
